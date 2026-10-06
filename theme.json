@@ -1,0 +1,9 @@
+{
+  "id": "venue-forest",
+  "label": "Venue Forest",
+  "preferredPolarity": "dark",
+  "modes": {
+    "light": { "label": "Day", "polarity": "light", "tokens": "modes/light.css" },
+    "dark": { "label": "Night", "polarity": "dark", "tokens": "modes/dark.css" }
+  }
+}
